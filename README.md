@@ -67,21 +67,7 @@ flutter run
 
 ## 🧑‍💻 Author
 
-### Muhammad Husnain Shahid
-
-<p align="left">
-  <a href="https://github.com/muhammadhusnainshahid">
-    <img src="https://img.shields.io/badge/GitHub-Follow-blue?logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-husnain-shahid-36b34b26b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/the.husnainshahid">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram" alt="Instagram"/>
-  </a>
-</p>  
-
-If you liked this project, don’t forget to ⭐ the repo!
+##USama Mehboob
 
 ---
 
