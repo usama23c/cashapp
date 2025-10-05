@@ -1,0 +1,2 @@
+E:/flutter download all setup/flutter_windows_3.27.1-stable/cash_wrap/android/app/.cxx/Debug/p6a583y9/x86/CMakeFiles/edit_cache.dir
+E:/flutter download all setup/flutter_windows_3.27.1-stable/cash_wrap/android/app/.cxx/Debug/p6a583y9/x86/CMakeFiles/rebuild_cache.dir

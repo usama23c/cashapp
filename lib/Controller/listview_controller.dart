@@ -1,0 +1,48 @@
+import 'package:get/get.dart';
+
+class CircularImageController extends GetxController {
+  var imageUrls = [
+    'images/images_ac/ac (1).jpg',
+    'images/images_ac/ac (2).jpg',
+    'images/images_ac/ac (3).jpg',
+    'images/images_ac/ac (4).jpg',
+    'images/images_ac/ac (5).jpg',
+    'images/images_ac/ac (6).jpg',
+    'images/images_ac/ac (7).jpg',
+    'images/images_ac/ac (8).jpg',
+    'images/images_ac/ac (9).jpg',
+    'images/images_ac/ac (10).jpg',
+    'images/images_ac/ac (11).jpg',
+    'images/images_ac/ac (12).jpg',
+    'images/images_ac/ac (13).jpg',
+    'images/images_ac/ac (14).jpg',
+    'images/images_ac/ac (15).jpg',
+    'images/images_ac/ac (16).jpg',
+    'images/images_ac/ac (17).jpg',
+    'images/images_ac/ac (18).jpg',
+    'images/images_ac/ac (19).jpg',
+    'images/images_ac/ac (20).jpg',
+  ].obs;
+  var girlNames = [
+    'Aanya',
+    'Zara',
+    'Meher',
+    'Kiara',
+    'Sana',
+    'Layla',
+    'Aria',
+    'Elina',
+    'Yara',
+    'Sophia',
+    'Aisha',
+    'Anaya',
+    'Meher',
+    'Ira',
+    'Yara',
+    'Sienna',
+    'Nyra',
+    'Ayra',
+    'Inaya',
+    'Elina',
+  ].obs;
+}
